@@ -182,7 +182,7 @@ export default function Home() {
             {[
               { icon: "📍", label: "Localisation", val: "Douala, Cameroun" },
               { icon: "💬", label: "WhatsApp", val: "+237 656 220 521" },
-              { icon: "📧", label: "Email", val: "contact@nettoya.com" },
+              { icon: "📧", label: "Email", val: "contact@nettoya.cam" },
             ].map(c => (
               <div key={c.label} style={{ background: "#fff", borderRadius: 16, padding: "28px 32px", border: "1px solid #c8e6d0", minWidth: 200 }}>
                 <div style={{ fontSize: 28, marginBottom: 12 }}>{c.icon}</div>
